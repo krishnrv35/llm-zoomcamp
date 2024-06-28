@@ -9,3 +9,4 @@ ipywidgets
 requests
 python-dotenv
 python-docx
+tiktoken
