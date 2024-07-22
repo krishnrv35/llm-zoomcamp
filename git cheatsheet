@@ -1,0 +1,15 @@
+# 1. Configure Git (only needed once)
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+# 2. Check the status
+git status
+
+# 3. Add changes to the staging area
+git add .
+
+# 4. Commit changes
+git commit -m "Added new feature"
+
+# 5. Push to GitHub
+git push origin main
